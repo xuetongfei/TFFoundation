@@ -1,0 +1,6 @@
+framework module TFFoundation {
+  umbrella header "TFFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

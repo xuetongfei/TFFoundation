@@ -1,0 +1,22 @@
+{
+  "name": "TFFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of TFFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuetongfei/TFFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuetongfei": "xuetongfei@58ganji.com"
+  },
+  "source": {
+    "git": "https://github.com/xuetongfei/TFFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TFFoundation/Classes/**/*"
+}
